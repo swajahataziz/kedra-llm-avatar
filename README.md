@@ -1,3 +1,3 @@
-# stellantis-poc
+# Using Bedrock LLMs with Kendra and an Avatar
 
-![architecture](./docs/arch.png)
+
