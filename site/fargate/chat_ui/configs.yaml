@@ -1,0 +1,13 @@
+auth:
+  credentials:
+    usernames:
+      demostella:
+        email: bpistone@amazon.com
+        name: Bruno Pistone
+        password: $2b$12$Vatz3kw9TxaAGC5zQrPzlePyOIB0.PDRs.btUInIMsEIyr8kFdvre
+  cookie:
+    expiry_days: 1
+    key: genai_qa_signature
+    name: session_token
+  enable: True
+#password_clear: keerahsh3T
